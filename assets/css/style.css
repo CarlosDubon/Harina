@@ -5,7 +5,7 @@
 
 #header-cover {
     width: 100%;
-    background: url("/assets/img/header-cover.jpg");
+    background: url("../img/header-cover.jpg");
     height: 60vh;
     background-size: cover;
     background-position: center;
@@ -132,7 +132,7 @@ nav#home-nav ul li:last-child {
 }
 .result-cover{
     height: 500px;
-    background: url("/assets/img/house1.jpg");
+    background: url("../img/house1.jpg");
     background-size: cover;
     background-position: center;
 }
